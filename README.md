@@ -53,12 +53,12 @@ codex-business
 ## POC
 
 ```
-[msv@ms-laptop .codex]$ codex-private
+[user@host .codex]$ codex-private
 ✅ Switched Codex to PRIVATE profile
 …
 Account: XX@XX.com (Plus)
 
-[msv@ms-laptop .codex]$ codex-business
+[user@host .codex]$ codex-business
 ✅ Switched Codex to BUSINESS profile
 …
 Account: XX@XX.com (Team)
